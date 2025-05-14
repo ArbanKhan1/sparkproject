@@ -1,0 +1,332 @@
+[
+  {
+    "RetailTxnData": {
+      "InvoiceNo": 6305,
+      "InvoiceDateTime": "2022-11-13 13:50:23",
+      "StoreNo": 99,
+      "StorePos": "5GHI8495126",
+      "StoreCountry": "Philippines",
+      "LineItem": {
+        "StockCode": "358946",
+        "Description": "Pillowcases",
+        "Quantity": 81,
+        "UnitPrice": 90.98,
+        "SalePrice": 96.33
+      },
+      "Customer": {
+        "CustomerID": 3748,
+        "EmailId": ["lpigram0@cafepress.com","test@gmail.com"],
+        "ContactNo": "+63-333-978-7581",
+        "FirstName": "Dacia",
+        "MiddleName": "Lancelot",
+        "LastName": "Pigram",
+        "Address": "2009 Roth Alley",
+        "State": "New Jersey",
+        "Country": "China",
+        "ZipCode": 30303
+      },
+      "Discount": {
+        "DiscountCode": "THANKYOU10"
+      },
+      "Region": "Australia",
+      "SourceTimestamp": "2021-05-17 03:30:14"
+    }
+  },
+  {
+    "RetailTxnData": {
+      "InvoiceNo": 8296,
+      "InvoiceDateTime": "2020-11-18 05:24:59",
+      "StoreNo": 64,
+      "StorePos": "8DFG45987562",
+      "StoreCountry": "United States",
+      "LineItem": {
+        "StockCode": "480014",
+        "Description": "Scarf",
+        "Quantity": 71,
+        "UnitPrice": 97.1,
+        "SalePrice": 92.44
+      },
+      "Customer": {
+        "CustomerID": 8086,
+        "EmailId": "cdurante1@bloglines.com",
+        "ContactNo": "+1-650-363-6963",
+        "FirstName": "Chloe",
+        "MiddleName": "Cassandra",
+        "LastName": "Durante",
+        "Address": "80 Jenifer Drive",
+        "State": "Maine",
+        "Country": "Poland",
+        "ZipCode": 30303
+      },
+      "Discount": {
+        "DiscountCode": "SPRINGSALE"
+      },
+      "Region": "Antarctica",
+      "SourceTimestamp": "2020-04-16 09:38:06"
+    }
+  },
+  {
+    "RetailTxnData": {
+      "InvoiceNo": 6041,
+      "InvoiceDateTime": "2020-06-11 00:25:57",
+      "StoreNo": 66,
+      "StorePos": "9JKL87591453",
+      "StoreCountry": "Japan",
+      "LineItem": {
+        "StockCode": "258756",
+        "Description": "Conditioner",
+        "Quantity": 39,
+        "UnitPrice": 87.0,
+        "SalePrice": 92.86
+      },
+      "Customer": {
+        "CustomerID": 6956,
+        "EmailId": "pclausenthue2@google.com",
+        "ContactNo": "+81-110-696-6490",
+        "FirstName": "Kasper",
+        "MiddleName": "Padriac",
+        "LastName": "Clausen-Thue",
+        "Address": "624 Darwin Pass",
+        "State": "Louisiana",
+        "Country": "Azerbaijan",
+        "ZipCode": 80202
+      },
+      "Discount": {
+        "DiscountCode": "SUMMER10"
+      },
+      "Region": "North America",
+      "SourceTimestamp": "2021-11-11 10:20:10"
+    }
+  },
+  {
+    "RetailTxnData": {
+      "InvoiceNo": 4287,
+      "InvoiceDateTime": "2022-02-10 03:37:26",
+      "StoreNo": 82,
+      "StorePos": "4RTY56487591",
+      "StoreCountry": "China",
+      "LineItem": {
+        "StockCode": "662356",
+        "Description": "Sunglasses",
+        "Quantity": 39,
+        "UnitPrice": 96.63,
+        "SalePrice": 92.03
+      },
+      "Customer": {
+        "CustomerID": 4407,
+        "EmailId": "amacalester3@upenn.edu",
+        "ContactNo": "+86-801-669-8856",
+        "FirstName": "Paquito",
+        "MiddleName": "Antonius",
+        "LastName": "MacAlester",
+        "Address": "5568 Lake View Parkway",
+        "State": "New Hampshire",
+        "Country": "Croatia",
+        "ZipCode": 60611
+      },
+      "Discount": {
+        "DiscountCode": "BUNDLE20"
+      },
+      "Region": "Africa",
+      "SourceTimestamp": "2022-08-14 04:46:40"
+    }
+  },
+  {
+    "RetailTxnData": {
+      "InvoiceNo": 7088,
+      "InvoiceDateTime": "2021-06-30 04:08:44",
+      "StoreNo": 54,
+      "StorePos": "4CVB64521647",
+      "StoreCountry": "Norway",
+      "LineItem": {
+        "StockCode": "683950",
+        "Description": "Furniture Polish",
+        "Quantity": 90,
+        "UnitPrice": 99.08,
+        "SalePrice": 108.84
+      },
+      "Customer": {
+        "CustomerID": 6988,
+        "EmailId": "areddlesden4@usatoday.com",
+        "ContactNo": "+47-836-649-5878",
+        "FirstName": "Jaine",
+        "MiddleName": "Alanna",
+        "LastName": "Reddlesden",
+        "Address": "05204 Texas Center",
+        "State": "Maine",
+        "Country": "Norway",
+        "ZipCode": 30305
+      },
+      "Discount": {
+        "DiscountCode": "GET20BACK"
+      },
+      "Region": "North America",
+      "SourceTimestamp": "2021-11-10 14:00:27"
+    }
+  },
+  {
+    "RetailTxnData": {
+      "InvoiceNo": 2617,
+      "InvoiceDateTime": "2020-05-06 13:14:30",
+      "StoreNo": 74,
+      "StorePos": "8DFG45987562",
+      "StoreCountry": "Indonesia",
+      "LineItem": {
+        "StockCode": "662356",
+        "Description": "Clothes Hamper",
+        "Quantity": 78,
+        "UnitPrice": 91.04,
+        "SalePrice": 91.41
+      },
+      "Customer": {
+        "CustomerID": 8938,
+        "EmailId": "ggronno5@e-recht24.de",
+        "ContactNo": "+62-390-880-0036",
+        "FirstName": "Minnnie",
+        "MiddleName": "Gretta",
+        "LastName": "Gronno",
+        "Address": "3684 Old Gate Street",
+        "State": "West Virginia",
+        "Country": "Mongolia",
+        "ZipCode": 20002
+      },
+      "Discount": {
+        "DiscountCode": "NEWYEAR20"
+      },
+      "Region": "Asia",
+      "SourceTimestamp": "2022-07-14 23:16:17"
+    }
+  },
+  {
+    "RetailTxnData": {
+      "InvoiceNo": 1698,
+      "InvoiceDateTime": "2022-03-16 07:59:15",
+      "StoreNo": 41,
+      "StorePos": "1WER84517694",
+      "StoreCountry": "France",
+      "LineItem": {
+        "StockCode": "485273",
+        "Description": "Laundry Detergent",
+        "Quantity": 61,
+        "UnitPrice": 80.73,
+        "SalePrice": 95.57
+      },
+      "Customer": {
+        "CustomerID": 2109,
+        "EmailId": "tgrisley6@symantec.com",
+        "ContactNo": "+33-169-950-9070",
+        "FirstName": "Stella",
+        "MiddleName": "Thurston",
+        "LastName": "Grisley",
+        "Address": "8 Farwell Point",
+        "State": "Wisconsin",
+        "Country": "Tajikistan",
+        "ZipCode": 10001
+      },
+      "Discount": {
+        "DiscountCode": "SAVEMORE15"
+      },
+      "Region": "Europe",
+      "SourceTimestamp": "2020-10-05 21:12:39"
+    }
+  },
+  {
+    "RetailTxnData": {
+      "InvoiceNo": 9978,
+      "InvoiceDateTime": "2021-04-19 13:13:23",
+      "StoreNo": 82,
+      "StorePos": "3IND03021996",
+      "StoreCountry": "Guatemala",
+      "LineItem": {
+        "StockCode": "785469",
+        "Description": "Trash Bags",
+        "Quantity": 27,
+        "UnitPrice": 94.41,
+        "SalePrice": 107.38
+      },
+      "Customer": {
+        "CustomerID": 7911,
+        "EmailId": "bblaxlande7@addthis.com",
+        "ContactNo": "+502-441-523-7597",
+        "FirstName": "Marice",
+        "MiddleName": "Bert",
+        "LastName": "Blaxlande",
+        "Address": "1 Menomonie Road",
+        "State": "Kentucky",
+        "Country": "China",
+        "ZipCode": 80205
+      },
+      "Discount": {
+        "DiscountCode": "FLASHSALE20"
+      },
+      "Region": "Asia",
+      "SourceTimestamp": "2020-12-30 04:57:46"
+    }
+  },
+  {
+    "RetailTxnData": {
+      "InvoiceNo": 6289,
+      "InvoiceDateTime": "2020-05-03 19:14:21",
+      "StoreNo": 19,
+      "StorePos": "4RTY56487591",
+      "StoreCountry": "Vietnam",
+      "LineItem": {
+        "StockCode": "785469",
+        "Description": "Curling Iron",
+        "Quantity": 87,
+        "UnitPrice": 95.88,
+        "SalePrice": 109.55
+      },
+      "Customer": {
+        "CustomerID": 1987,
+        "EmailId": "mlaffoleylane8@huffingtonpost.com",
+        "ContactNo": "+84-669-734-7651",
+        "FirstName": "Drucill",
+        "MiddleName": "Mignonne",
+        "LastName": "Laffoley-Lane",
+        "Address": "596 Green Ridge Hill",
+        "State": "Delaware",
+        "Country": "Sweden",
+        "ZipCode": 20004
+      },
+      "Discount": {
+        "DiscountCode": "LASTCHANCE"
+      },
+      "Region": "Europe",
+      "SourceTimestamp": "2022-11-09 12:39:46"
+    }
+  },
+  {
+    "RetailTxnData": {
+      "InvoiceNo": 9033,
+      "InvoiceDateTime": "2022-07-31 07:06:19",
+      "StoreNo": 61,
+      "StorePos": "4RTY56487591",
+      "StoreCountry": "Venezuela",
+      "LineItem": {
+        "StockCode": "584115",
+        "Description": "Curtains",
+        "Quantity": 100,
+        "UnitPrice": 89.9,
+        "SalePrice": 99.8
+      },
+      "Customer": {
+        "CustomerID": 6172,
+        "EmailId": "lallmann9@biglobe.ne.jp",
+        "ContactNo": "+58-161-217-4940",
+        "FirstName": "Beale",
+        "MiddleName": "Lowe",
+        "LastName": "Allmann",
+        "Address": "62 Stuart Crossing",
+        "State": "Ohio",
+        "Country": "Indonesia",
+        "ZipCode": 75209
+      },
+      "Discount": {
+        "DiscountCode": "FLASHSALE20"
+      },
+      "Region": "Africa",
+      "SourceTimestamp": "2020-04-30 23:45:00"
+    }
+  }
+]

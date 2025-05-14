@@ -1,0 +1,32 @@
+{
+  "ResponseMetadata": {
+    "RequestId": "1CKDB68ZCJSDB7KS",
+    "HostId": "UuOlU0Sn2Jt9r+o4ULuTcZ0u5y9265MwZz4zqeqqYbaIpXIUSND+bgD4aQcPPkL1f42HwQnXDk1Z8AHJn35yzc56vNr6keSQ",
+    "HTTPStatusCode": 200,
+    "HTTPHeaders": {
+      "x-amz-id-2": "UuOlU0Sn2Jt9r+o4ULuTcZ0u5y9265MwZz4zqeqqYbaIpXIUSND+bgD4aQcPPkL1f42HwQnXDk1Z8AHJn35yzc56vNr6keSQ",
+      "x-amz-request-id": "1CKDB68ZCJSDB7KS",
+      "date": "Thu, 17 Apr 2025 04:01:54 GMT",
+      "last-modified": "Thu, 10 Apr 2025 03:46:23 GMT",
+      "etag": "\"bc0595f67853293dd8d2b47618c145df\"",
+      "x-amz-checksum-crc64nvme": "P0kYxNDgYJM=",
+      "x-amz-checksum-type": "FULL_OBJECT",
+      "x-amz-server-side-encryption": "AES256",
+      "accept-ranges": "bytes",
+      "content-type": "application/json",
+      "content-length": "8860",
+      "server": "AmazonS3"
+    },
+    "RetryAttempts": 0
+  },
+  "AcceptRanges": "bytes",
+  "LastModified": "2025-04-10T03:46:23+00:00",
+  "ContentLength": 8860,
+  "ETag": "\"bc0595f67853293dd8d2b47618c145df\"",
+  "ChecksumCRC64NVME": "P0kYxNDgYJM=",
+  "ChecksumType": "FULL_OBJECT",
+  "ContentType": "application/json",
+  "ServerSideEncryption": "AES256",
+  "Metadata": {},
+  "Body": "<botocore.response.StreamingBody object>"
+}

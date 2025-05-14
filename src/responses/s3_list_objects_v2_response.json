@@ -1,42 +1,43 @@
 {
     "ResponseMetadata": {
-      "RequestId": "8B1XZAJJHVHM2MTV",
-      "HostId": "Y5lTd2VFCzAq9bxnszA2N4+moSZGuRZ2dicALAoIhqw4fXCjEdx+OTwuJCrCz8UH91UhxOuKymPGjL7NUt9Trkbt4pxe8pFV",
-      "HTTPStatusCode": 200,
-      "HTTPHeaders": {
-        "x-amz-id-2": "Y5lTd2VFCzAq9bxnszA2N4+moSZGuRZ2dicALAoIhqw4fXCjEdx+OTwuJCrCz8UH91UhxOuKymPGjL7NUt9Trkbt4pxe8pFV",
-        "x-amz-request-id": "8B1XZAJJHVHM2MTV",
-        "date": "Sat, 03 May 2025 17:27:10 GMT",
-        "x-amz-bucket-region": "eu-north-1",
-        "content-type": "application/xml",
-        "transfer-encoding": "chunked",
-        "server": "AmazonS3"
-      },
-      "RetryAttempts": 0
+        "RequestId": "21FREYVTZW2FFJY4",
+        "HostId": "Sb27uGtw6N7eXuRA6083sj2+gKdIvXZT/0114DsHnM5P+ITYD/sZTBp3vJL9VarjdfQeL7Er/wjWw2XX95dFr4086iWGKqa+",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amz-id-2": "Sb27uGtw6N7eXuRA6083sj2+gKdIvXZT/0114DsHnM5P+ITYD/sZTBp3vJL9VarjdfQeL7Er/wjWw2XX95dFr4086iWGKqa+",
+            "x-amz-request-id": "21FREYVTZW2FFJY4",
+            "date": "Thu, 10 Apr 2025 04:25:42 GMT",
+            "x-amz-bucket-region": "eu-north-1",
+            "content-type": "application/xml",
+            "transfer-encoding": "chunked",
+            "server": "AmazonS3"
+        },
+        "RetryAttempts": 0
     },
-    "IsTruncated": false,
+    "IsTruncated": "False",
     "Contents": [
-      {
-        "Key": "source_files/",
-        "LastModified": "2025-05-03T16:53:36+00:00",
-        "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
-        "ChecksumAlgorithm": ["CRC64NVME"],
-        "Size": 0,
-        "StorageClass": "STANDARD"
-      },
-      {
-        "Key": "source_files/retail-data-store-mock-data.json",
-        "LastModified": "2025-05-03T16:53:52+00:00",
-        "ETag": "\"bc0595f67853293dd8d2b47618c145df\"",
-        "ChecksumAlgorithm": ["CRC64NVME"],
-        "Size": 8860,
-        "StorageClass": "STANDARD"
-      }
+        {
+            "Key": "source_files/",
+            "LastModified": "2025-04-10T03:45:41Z",
+            "ETag": "\"d41d8cd98f00b204e9800998ecf8427e\"",
+            "ChecksumAlgorithm": ["CRC64NVME"],
+            "ChecksumType": "FULL_OBJECT",
+            "Size": 0,
+            "StorageClass": "STANDARD"
+        },
+        {
+            "Key": "source_files/retail-data-store-mock-data.json",
+            "LastModified": "2025-04-10T03:46:23Z",
+            "ETag": "\"bc0595f67853293dd8d2b47618c145df\"",
+            "ChecksumAlgorithm": ["CRC64NVME"],
+            "ChecksumType": "FULL_OBJECT",
+            "Size": 8860,
+            "StorageClass": "STANDARD"
+        }
     ],
-    "Name": "pyspark-project-2025",
+    "Name": "retail-dataset23",
     "Prefix": "source_files",
     "MaxKeys": 1000,
     "EncodingType": "url",
     "KeyCount": 2
-  }
-  
+}

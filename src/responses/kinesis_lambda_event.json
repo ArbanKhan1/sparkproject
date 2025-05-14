@@ -1,0 +1,101 @@
+{
+    "Records": [
+      {
+        "kinesis": {
+          "kinesisSchemaVersion": "1.0",
+          "partitionKey": "7zDSE2kQlW",
+          "sequenceNumber": "49662875573428624141124256562404851116105587156915847170",
+          "data": {
+            "RetailTxnData": {
+              "InvoiceNo": 4287,
+              "InvoiceDateTime": "2022-02-10 03:37:26",
+              "StoreNo": 82,
+              "StorePos": "4RTY56487591",
+              "StoreCountry": "China",
+              "LineItem": {
+                "StockCode": "662356",
+                "Description": "Sunglasses",
+                "Quantity": 39,
+                "UnitPrice": 96.63,
+                "SalePrice": 92.03
+              },
+              "Customer": {
+                "CustomerID": 4407,
+                "EmailId": "amacalester3@upenn.edu",
+                "ContactNo": "+86-801-669-8856",
+                "FirstName": "Paquito",
+                "MiddleName": "Antonius",
+                "LastName": "MacAlester",
+                "Address": "5568 Lake View Parkway",
+                "State": "New Hampshire",
+                "Country": "Croatia",
+                "ZipCode": 60611
+              },
+              "Discount": {
+                "DiscountCode": "BUNDLE20"
+              },
+              "Region": "Africa",
+              "SourceTimestamp": "2022-08-14 04:46:40"
+            }
+          },
+          "approximateArrivalTimestamp": 1746072653.186
+        },
+        "eventSource": "aws:kinesis",
+        "eventVersion": "1.0",
+        "eventID": "shardId-000000000000:49662875573428624141124256562404851116105587156915847170",
+        "eventName": "aws:kinesis:record",
+        "invokeIdentityArn": "arn:aws:iam::323399920088:role/service-role/retail-dataset-processor-lambda-role-73s2lkqk",
+        "awsRegion": "eu-north-1",
+        "eventSourceARN": "arn:aws:kinesis:eu-north-1:323399920088:stream/retail_dataset_source_stream"
+      },
+      {
+        "kinesis": {
+          "kinesisSchemaVersion": "1.0",
+          "partitionKey": "sugbKl5ibL",
+          "sequenceNumber": "49662875573428624141124256562438701039054796773807620098",
+          "data": {
+            "RetailTxnData": {
+              "InvoiceNo": 7088,
+              "InvoiceDateTime": "2021-06-30 04:08:44",
+              "StoreNo": 54,
+              "StorePos": "4CVB64521647",
+              "StoreCountry": "Norway",
+              "LineItem": {
+                "StockCode": "683950",
+                "Description": "Furniture Polish",
+                "Quantity": 90,
+                "UnitPrice": 99.08,
+                "SalePrice": 108.84
+              },
+              "Customer": {
+                "CustomerID": 6988,
+                "EmailId": "areddlesden4@usatoday.com",
+                "ContactNo": "+47-836-649-5878",
+                "FirstName": "Jaine",
+                "MiddleName": "Alanna",
+                "LastName": "Reddlesden",
+                "Address": "05204 Texas Center",
+                "State": "Maine",
+                "Country": "Norway",
+                "ZipCode": 30305
+              },
+              "Discount": {
+                "DiscountCode": "GET20BACK"
+              },
+              "Region": "North America",
+              "SourceTimestamp": "2021-11-10 14:00:27"
+            }
+          },
+          "approximateArrivalTimestamp": 1746072653.372
+        },
+        "eventSource": "aws:kinesis",
+        "eventVersion": "1.0",
+        "eventID": "shardId-000000000000:49662875573428624141124256562438701039054796773807620098",
+        "eventName": "aws:kinesis:record",
+        "invokeIdentityArn": "arn:aws:iam::323399920088:role/service-role/retail-dataset-processor-lambda-role-73s2lkqk",
+        "awsRegion": "eu-north-1",
+        "eventSourceARN": "arn:aws:kinesis:eu-north-1:323399920088:stream/retail_dataset_source_stream"
+      }
+    ]
+  }
+  

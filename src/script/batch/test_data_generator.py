@@ -4,7 +4,7 @@ import random
 import string
 
 # Configurations
-s3_bucket = 'pyspark-project-2025'
+s3_bucket = 'retail-dataset1'
 s3_prefix = 'source_files'
 kinesis_stream_name = 'retail_dataset_source_stream'
 region_name = 'eu-north-1'  # e.g., 'us-east-1'

@@ -1,0 +1,39 @@
+{
+    "responses": [
+      {
+        "ShardId": "shardId-000000000001",
+        "SequenceNumber": "49662660294188383659687971986215481256432704085722923026",
+        "ResponseMetadata": {
+          "RequestId": "fb925301-4ca1-7cf1-9b11-e5bab2a37c57",
+          "HTTPStatusCode": 200,
+          "HTTPHeaders": {
+            "x-amzn-requestid": "fb925301-4ca1-7cf1-9b11-e5bab2a37c57",
+            "x-amz-id-2": "OjpHw3nrbfS/W+qWL9sciJvOOfcLk4zhigWFHVkFPjhYICjzvrPFxnQyHLUylB3WM5s6NY/sMlfjvNnx8Fj5X3bnspoVjdDV",
+            "date": "Thu, 24 Apr 2025 03:48:11 GMT",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "110",
+            "connection": "keep-alive"
+          },
+          "RetryAttempts": 0
+        }
+      },
+      {
+        "ShardId": "shardId-000000000001",
+        "SequenceNumber": "49662660294188383659687971986281972176511508690331762706",
+        "ResponseMetadata": {
+          "RequestId": "efa9a6bd-1e44-97b7-8f2a-1006e0469711",
+          "HTTPStatusCode": 200,
+          "HTTPHeaders": {
+            "x-amzn-requestid": "efa9a6bd-1e44-97b7-8f2a-1006e0469711",
+            "x-amz-id-2": "sC8Mp2RRtKe6ezdzniKkOtHzsMKwf6ZVvijDC+0VoAdtkeh4PBbxoWfyJ9plOa5/ALXZMDUuRRDgqvygjHouEHcdZmu+vmjj",
+            "date": "Thu, 24 Apr 2025 03:48:11 GMT",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "110",
+            "connection": "keep-alive"
+          },
+          "RetryAttempts": 0
+        }
+      }
+    ]
+  }
+  
